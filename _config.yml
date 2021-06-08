@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: [读与未读]
+description: [已读，在读，还有未读的]
+logo: [/logo.png]
